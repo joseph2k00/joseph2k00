@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduate from the University of Galway with an MSc in Information Systems Management. Previously worked as an Engineer at QBurst, where responsibilities included collaborating with global clients to analyse business systems and develop optimised digital solutions. Core competencies include developing full stack applications, implementing Microservices Architecture, designing robust database systems, and optimizing SQL queries to improve performance. <br><br>At QBurst, contributed to the development of over 100 RESTful APIs for web and mobile applications, leveraging skills in Java, PHP, MySQL, and Laravel. Motivated to drive innovation through agile methodologies and collaborative efforts, bringing technical expertise and a commitment to excellence to any organization.
+Full Stack Developer with 2 years of experience building scalable web applications and enterprise solutions. MSc Information Systems Management graduate from the University of Galway with First Class Honours. Skilled in Java, Python, PHP, JavaScript, and MySQL, with experience developing RESTful APIs, microservices, and optimizing database performance. Passionate about building efficient, reliable systems that solve real business problems.
 
 
 ## 🌐 Socials:
